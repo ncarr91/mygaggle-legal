@@ -2,7 +2,7 @@
 
 _Last updated: November 16, 2026_
 
-These terms apply to the My Gaggle app ("My Gaggle", "the app"), provided by Nathanael Carr ("we", "us"). By using the app you agree to them. Apple's Standard EULA (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies; if anything here conflicts with it, these terms apply to the extent the law allows.
+These terms apply to the My Gaggle app ("My Gaggle", "the app"), provided by My Gaggle Team ("we", "us"). By using the app you agree to them. Apple's Standard EULA (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies; if anything here conflicts with it, these terms apply to the extent the law allows.
 
 ## 1. What My Gaggle is — and isn't
 My Gaggle is a personal record-keeping tool for your animals' care: logs, reminders, medications, vet details and documents.
